@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include database *.css
+recursive-include database *.csv
+recursive-include database *.html
+recursive-include database *.ico
+recursive-include database *.js
+recursive-include database *.json
+recursive-include database *.md
+recursive-include database *.png
+recursive-include database *.py
+recursive-include database *.svg
+recursive-include database *.txt
+recursive-exclude database *.pyc
