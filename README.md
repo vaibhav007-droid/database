@@ -8,5 +8,4 @@ Fetch Mariadb Database Into Erpnext Custom Page.
 4. bench migrate
 
 #### License
-
 MIT
