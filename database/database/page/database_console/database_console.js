@@ -55,7 +55,7 @@ MyPage = Class.extend({
                         if (result.content.length > 1) {
                             makeTable(result);
                         } else {
-                            frappe.msgprint("Empty Set")
+                            frappe.msgprint("Query Executed Successfully..!!",indicator="Success")
                         }
                     }
                 }
